@@ -86,8 +86,8 @@ public class Ingreso extends javax.swing.JFrame {
         }
         
         
-        setTitle("XtremeGym: Sistema de ingreso ");
-        
+        setTitle("Xtreme Gym: Sistema de Ingreso");
+        setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         setSize(1500, 800);
         setResizable(false);
         setLocationRelativeTo(null);
